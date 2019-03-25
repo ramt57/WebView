@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"  tools:context=".MainActivity">
+
+    <WebView
+        android:id="@+id/webview"
+        android:visibility="visible"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <Button
+        android:layout_width="match_parent"
+        android:text="Google"
+        android:visibility="gone"
+        android:id="@+id/google"
+        android:layout_height="wrap_content" />
+    <com.facebook.login.widget.LoginButton
+        android:layout_width="match_parent"
+        android:id="@+id/loginButton"
+        android:visibility="gone"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

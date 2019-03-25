@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "461833254363",
+    "firebase_url": "https://woodofa-214705.firebaseio.com",
+    "project_id": "woodofa-214705",
+    "storage_bucket": "woodofa-214705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461833254363:android:aa80ff910e102555",
+        "android_client_info": {
+          "package_name": "com.woodofa.woodofa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461833254363-trb3mmai2t3bh298enjvig1iocvs5p9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woodofa.woodofa",
+            "certificate_hash": "eded066f886f0fbbd7b6a0d6ed3c9b90831c7147"
+          }
+        },
+        {
+          "client_id": "461833254363-4sk193cqb018hlj5d0svgp89lqn002ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg31qjBWw2YBw83WEW-tbg3U6A6XIUuEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461833254363-4sk193cqb018hlj5d0svgp89lqn002ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
